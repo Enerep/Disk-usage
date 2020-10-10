@@ -2,6 +2,7 @@
 
 import shutil
 import sys
+import os
 
 def check_reboot():
 	"""Returns True if the computer has a pending reboot."""
